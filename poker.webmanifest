@@ -1,0 +1,13 @@
+{
+  "name": "德州小桌",
+  "short_name": "德州小桌",
+  "description": "轻松来一局虚拟筹码德州扑克",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071d1c",
+  "theme_color": "#092c28",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
